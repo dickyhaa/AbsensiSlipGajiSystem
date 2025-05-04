@@ -21,7 +21,8 @@ Disusun Oleh:
 3. Ghabriella Auranizza Fransrico 23081020028
 4. Rega Yuancahya Faiz Kristama 23081010033
 5. M. Dicky Haikal Aly 23081010043
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ✨ Fitur Utama:
 <br>
@@ -45,16 +46,17 @@ Disusun Oleh:
 
 💻 Teknologi yang Digunakan<br>
 
-1. Java <br>
-2. Java Swing<br>
-3. My SQL <br>
+1. Java
+2. Java Swing
+3. My SQL
 4. HTML5 (untuk readme github)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 👨🏻‍💻👩🏻‍💻 Tools Project<br>
 
-1. NetBeans IDE
-2. VScode<br>
+1. Apache NetBeans IDE
+2. VScode
 3. Github
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
