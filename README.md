@@ -30,7 +30,8 @@ Disusun Oleh:
 3. Perhitungan dan pencetakan slip gaji
 4. Pembuatan laporan penggajian
 5. Mengelola Shift karyawan
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+##
 
 👷‍♂️ Karyawan
 
