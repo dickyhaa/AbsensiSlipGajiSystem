@@ -11,7 +11,9 @@ Aplikasi desktop berbasis Java dan Java Swing ini dibuat untuk membantu proses a
 ##
 
 Dosen Pengampu: Fawwaz Ali Akbar, S.Kom.,M.Kom
-<br>
+
+##
+
 Disusun Oleh:
 
 1. Muhammad Rakha Syailendra 23081010019
@@ -39,7 +41,7 @@ Disusun Oleh:
 2. Melihat riwayat absensi pribadi
 3. Melihat dan mencetak slip gaji
 
-   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 💻 Teknologi yang Digunakan<br>
 
@@ -48,7 +50,7 @@ Disusun Oleh:
 3. My SQL <br>
 4. HTML5 (untuk readme github)
 
-##
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 👨🏻‍💻👩🏻‍💻 Tools Project<br>
 
