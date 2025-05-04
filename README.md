@@ -32,24 +32,26 @@ Disusun Oleh:
 5. Mengelola Shift karyawan
    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-   👷‍♂️ Karyawan<br>
+👷‍♂️ Karyawan
 
-6. Melakukan absensi harian chek in dan check out (dengan unggah foto)<br>
-7. Melihat riwayat absensi pribadi<br>
-8. Melihat dan mencetak slip gaji
+1. Melakukan absensi harian chek in dan check out (dengan unggah foto)
+2. Melihat riwayat absensi pribadi
+3. Melihat dan mencetak slip gaji
 
    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
-   💻 Teknologi yang Digunakan<br>
-   Java <br>
-   Java Swing<br>
-   My SQL <br>
-   HTML5 (untuk readme github)
+
+💻 Teknologi yang Digunakan<br>
+
+1. Java <br>
+2. Java Swing<br>
+3. My SQL <br>
+4. HTML5 (untuk readme github)
 
 ##
 
 👨🏻‍💻👩🏻‍💻 Tools Project<br>
-NetBeans IDE<br>
-VScode<br>
-Github
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+
+1. NetBeans IDE
+2. VScode<br>
+3. Github
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
