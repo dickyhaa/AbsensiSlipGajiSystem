@@ -6,7 +6,8 @@
   />
 </h1>
 
-Aplikasi desktop berbasis Java dan Java Swing ini dibuat untuk membantu proses absensi karyawan dan pengelolaan slip gaji untuk kantin mama secara akurat dan efisien. Dibuat dengan pendekatan OOP (Object-Oriented Programming), sistem ini mendukung fitur CRUD, dan didesain GUI dengan tampilan menarik. Project ini dibuat untuk memenuhi tugas EAS mata kuliah Pemograman Berorientasi kelas F081.
+Aplikasi desktop berbasis Java dan Java Swing ini dibuat untuk membantu proses absensi karyawan dan pengelolaan slip gaji untuk kantin mama secara akurat dan efisien. Dibuat dengan pendekatan OOP (Object-Oriented Programming), sistem ini mendukung fitur CRUD, dan didesain GUI dengan tampilan menarik.
+Project ini dibuat untuk memenuhi tugas EAS mata kuliah Pemograman Berorientasi kelas F081.
 
 ##
 
@@ -45,9 +46,10 @@ Disusun Oleh:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 💻 Teknologi yang Digunakan<br>
-Java <br>
-Java Swing<br>
-HTML5 (untuk readme github)
+
+1. Java
+2. Java Swing
+3. My SQL
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
