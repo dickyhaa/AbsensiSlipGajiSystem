@@ -45,11 +45,9 @@ Disusun Oleh:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 💻 Teknologi yang Digunakan<br>
-
-1. Java
-2. Java Swing
-3. My SQL
-4. HTML5 (untuk readme github)
+Java <br>
+Java Swing<br>
+HTML5 (untuk readme github)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
